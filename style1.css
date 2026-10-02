@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+}
+.parent{
+    height: 200px;
+    width: 400px;
+    background-color: red;
+    font-size: 20px;
+}
+.child{
+    height: 50%;
+    width: 20% ;
+    background-color: blue;
+    font-size:3rem;
+}
+.div{
+    font-size: 2em;
+    height: 50vh;
+    width: 100vw;
+    background-color: black;
+}

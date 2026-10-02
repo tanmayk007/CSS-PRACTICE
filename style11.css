@@ -1,0 +1,9 @@
+.div{
+    height: 50vh;
+    width: 100vw;
+    background-image: url("https://images.unsplash.com/photo-1682685794700-1f3c7e4d8b9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmFja2dyb3VuZCUyMGltYWdlfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    background-size: cover;
+    background-position: center;
+    
+
+}

@@ -1,0 +1,23 @@
+.container{
+    position: relative;
+    height: 250px;
+    width: 300px;
+    border: 2px solid black;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.back{
+    background-color: lightblue;
+    z-index: 0;
+}
+.front{
+    background-color: coral;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    z-index: 1;
+}

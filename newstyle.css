@@ -1,0 +1,29 @@
+ *{
+    font-family: Times New Roman;
+    font-size: 40px;
+ }
+ #box {
+            background-color: blue;
+            color: white;
+            font-size: 20px;
+        }
+.heading {
+    color: red;
+    text-align: center;
+    font-family: times new roman;
+}
+h1 {
+    text-align: center;
+    font-weight: lighter;
+    font-family:monospace;
+    text-transform: capitalize;
+}
+h3 {
+    text-decoration: underline;
+}
+#outer {
+    font-size: 20px;
+}
+#inner {
+    font-size: 10px;
+}
